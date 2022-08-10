@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::altteam_page_change_effect"
+msgid "[Alt-Team] Page change effect"
+msgstr "[Alt-Team] Page change effect"
+
+msgctxt "Addons::description::altteam_page_change_effect"
+msgid "Adds page change effect on your store. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Adds page change effect on your store. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+
+msgctxt "SettingsOptions::altteam_page_change_effect::license_number"
+msgid "License number"
+msgstr "License number"
+
+msgctxt "SettingsOptions::altteam_page_change_effect::animation"
+msgid "Animation"
+msgstr "Animation"
+
+msgctxt "SettingsVariants::altteam_page_change_effect::animation::fade"
+msgid "Fade"
+msgstr "Fade"
+
+msgctxt "SettingsVariants::altteam_page_change_effect::animation::move"
+msgid "Move"
+msgstr "Move"
