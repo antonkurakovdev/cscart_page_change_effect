@@ -13,7 +13,7 @@
 					jQuery.redirect(linkLocation);
 				});						
 			});
-			{/literal
+			{/literal}
 		{elseif $addons.altteam_page_change_effect.animation == 'move'}
 			{literal}
 		    $(".tygh-content").animate({left: "0px"}, 2000);						
